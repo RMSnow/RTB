@@ -61,6 +61,14 @@
 
 - [[Zhang et al., 2014c] Zhang, Y., Dai, H., Xu, C., Feng, J., Wang, T., Bian, J., Wang, B., and Liu, T.-Y. (2014c). Sequential click prediction for sponsored search with recurrent neural networks. In Twenty-Eighth AAAI Conference on Artificial Intelligence.](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/download/8529/8581)
 
+- Alibaba
+
+  [Deep Interest Network for Click-Through Rate Prediction](https://arxiv.org/pdf/1706.06978.pdf).
+
+- Tencent
+
+  [2017 Tencent - PBODL - Parallel Bayesian Online Deep Learning for Click-Through Rate Prediction in Tencent Advertising System](https://arxiv.org/pdf/1707.00802.pdf).
+
 ### Model Comparison
 From [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://arxiv.org/abs/1610.03013) by Jun Wang, Weinan Zhang and Shuai Yuan. ArXiv 2016.
 > As discussed in this chapter, there are various user response prediction mod-els. From the modeling perspective, these models can be generally cate-gorised as linear and non-linear models.
