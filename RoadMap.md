@@ -65,7 +65,15 @@
 From [Display Advertising with Real-Time Bidding (RTB) and Behavioural Targeting](https://arxiv.org/abs/1610.03013) by Jun Wang, Weinan Zhang and Shuai Yuan. ArXiv 2016.
 > As discussed in this chapter, there are various user response prediction mod-els. From the modeling perspective, these models can be generally cate-gorised as linear and non-linear models.
 >
-> Linear models, including logistic regression [Lee et al., 2012, McMahanet al., 2013] and Bayesian probit regression (with diagonal covariance matrix)[Graepel et al., 2010], directly build the model based on the feature inde-pendence assumption. For linear models, the feature interaction patternsare generally captured by building large-scale feature space with combin-ing multi-field features, which could consume much human effort. **However,thanks to its high efficiency and high parallelization capability, linear models are able to be fed in much more training data instances (and higher dimensional features) during the same training period, which makes themstill highly comparable with the non-linear models in many industrial environments**.
+> Linear models, including logistic regression [Lee et al., 2012, McMahanet al., 2013] and Bayesian probit regression (with diagonal covariance matrix)[Graepel et al., 2010], directly build the model based on the feature independence assumption. For linear models, the feature interaction patterns are generally captured by building large-scale feature space with combining multi-field features, which could consume much human effort. **However, thanks to its high efficiency and high parallelization capability, linear models are able to be fed in much more training data instances (and higher dimensional features) during the same training period, which makes them still highly comparable with the non-linear models in many industrial environments**.
 >
 > Non-linear models, including factorisation machine [Rendle, 2010, Juanet al., 2016], tree models [He et al., 2014] and recently emerged (deep) neural networks models [Zhang et al., 2016b, Qu et al., 2016], provide model capacity of **automatically learning feature interaction** patterns without the need of designing combining features. These non-linear models generally need much more computation resources than the linear ones, and some of themmay require multiple stages of model training, as demostrated in [He et al.,2014]. With the fast development high performance computing (HPC) andthe explosion of data volume, non-linear models are more and more appliedin commercial platforms for practical user response prediction.
 
+## News
+
+知乎收藏夹：[RTB](https://www.zhihu.com/collection/234402874).
+
+知乎收藏夹：[Research](https://www.zhihu.com/collection/146175275).
+
+- [【阿里算法天才盖坤】解读阿里深度学习实践，CTR 预估、MLR 模型、兴趣分布网络等](https://zhuanlan.zhihu.com/p/35599271).
+- [周志华最新演讲：深度学习为什么深？有多好的人才，才可能有多好的人工智能](https://zhuanlan.zhihu.com/p/35730947).
