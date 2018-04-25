@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      "Feature Engineering"
+subtitle:   "Data Mining Approach"
+date:       2018-4-26 00:39:00
+author:     "Snow"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+- Research
+---
+
 ## Feature Engineering - Data Mining Approach
 
 ### Detecting Click Fraud in Online Advertising - A Data Mining Approach
