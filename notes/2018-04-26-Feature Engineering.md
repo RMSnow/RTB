@@ -12,39 +12,38 @@ tags:
 
 ## Feature Engineering - Data Mining Approach
 
-### Detecting Click Fraud in Online Advertising - A Data Mining Approach
-
 #### About Paper
 
+[Detecting Click Fraud in Online Advertising - A Data Mining Approach]( http://www.jmlr.org/papers/volume15/oentaryo14a/oentaryo14a.pdf).
+
 - **A Data Mining Approach**.
-- Website: http://www.jmlr.org/papers/volume15/oentaryo14a/oentaryo14a.pdf
 - Ad Fraud Detection based on click.
 - Fraud Detection in Mobile Advertising (FDMA) 2012 Competition.
 - **Keywords**: ensemble learning, feature engineering, fraud detection, imbalanced classification
 
 #### Dataset
 
-- https://docs.google.com/file/d/0B77LA4oEl-AQTGRHSVNMczJhVTg/edit
+[==> Download the Database](https://docs.google.com/file/d/0B77LA4oEl-AQTGRHSVNMczJhVTg/edit)
 
 - Publisher Database
 
-  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/img/FDMA2012/1.png)
+  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/resources/FDMA2012/1.png)
 
   Eg:
 
-  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/img/FDMA2012/3.png)
+  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/resources/FDMA2012/3.png)
 
 - Click Database
 
-  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/img/FDMA2012/2.png)
+  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/resources/FDMA2012/2.png)
 
   Eg:
 
-  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/img/FDMA2012/4.png)
+  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/resources/FDMA2012/4.png)
 
 #### First Winner's Entry
 
-- Feature Extraction: [A completint list - 118 predictive features]().
+- Feature Extraction: [A completint list - 118 predictive features](https://github.com/RMSnow/RTB/blob/master/resources/FDMA2012/1st-feature-list.txt).
   - Three types
     - Click Behavior (#67)
     - Repetitive Click Behavior (#40)
@@ -68,7 +67,7 @@ tags:
 
 #### Second Winner's Entry
 
-- Feature Extraction: [A completint list - 41 predictive features]().
+- Feature Extraction: [A completint list - 41 predictive features](https://github.com/RMSnow/RTB/blob/master/resources/FDMA2012/2nd-FDMA12_TeamMasdar_AppendixA.pdf).
   - Clicktime: **Time Intervals**
   - Statistical Attributes
     - Maximum
@@ -88,7 +87,7 @@ tags:
 
 - Preprocess: Group by the publisher's status
 
-  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/img/FDMA2012/5.png)
+  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/resources/FDMA2012/5.png)
 
 - Feature Extraction
 
