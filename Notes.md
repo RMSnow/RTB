@@ -16,19 +16,19 @@
 
 - Publisher Database
 
-  ![1](/Users/snow/snow_学习/大学/课程/_科研/陈艳姣实验室/RTB/img/FDMA2012/1.png)
+  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/img/FDMA2012/1.png)
 
   Eg:
 
-  ![1](/Users/snow/snow_学习/大学/课程/_科研/陈艳姣实验室/RTB/img/FDMA2012/3.png)
+  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/img/FDMA2012/3.png)
 
 - Click Database
 
-  ![1](/Users/snow/snow_学习/大学/课程/_科研/陈艳姣实验室/RTB/img/FDMA2012/2.png)
+  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/img/FDMA2012/2.png)
 
   Eg:
 
-  ![1](/Users/snow/snow_学习/大学/课程/_科研/陈艳姣实验室/RTB/img/FDMA2012/4.png)
+  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/img/FDMA2012/4.png)
 
 #### First Winner's Entry
 
@@ -76,7 +76,7 @@
 
 - Preprocess: Group by the publisher's status
 
-  ![1](/Users/snow/snow_学习/大学/课程/_科研/陈艳姣实验室/RTB/img/FDMA2012/5.png)
+  ![1](https://raw.githubusercontent.com/RMSnow/RTB/master/img/FDMA2012/5.png)
 
 - Feature Extraction
 
